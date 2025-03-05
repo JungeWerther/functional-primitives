@@ -1,0 +1,17 @@
+{
+  "name": "@seb/functional-primitives",
+  "version": "1.0.0",
+  "description": "Helper functions for functional style in typescript",
+  "main": "lib/helpers.ts",
+  "type": "module",
+  "scripts": {
+    "test": "tsx tests/main.ts"
+  },
+  "keywords": [],
+  "author": "Seb Wiechers <sebastiaanwiechers@icloud.com>",
+  "license": "ISC",
+  "repository": "git@github.com:JungeWerther/functional-primitives.git",
+  "dependencies": {
+    "tsx": "^4.19.3"
+  }
+}
