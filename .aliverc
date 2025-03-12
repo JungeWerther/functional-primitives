@@ -1,0 +1,8 @@
+test () {
+
+   proot=~/sites/functional-primitives
+   cd $proot/python
+   echo $PWD
+   echo "Running tests"
+   python -m src.tests.lib
+   }
